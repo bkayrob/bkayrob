@@ -10,6 +10,8 @@
 - 📫 How to reach me **Bkrobinson21@hotmail.com**
 
 - ⚡ Fun fact **Im the Jack of all trades**
+- Any gaps present during any month do not reflect my skills or abilities. Gaps usually represent
+- study gaps to learn and grasps new concepts.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
