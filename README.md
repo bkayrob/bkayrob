@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">A passionate frontend developer from New Jersey</h3>
+<h3 align="center">A passionate Software Engineer and UI Designer from New Jersey</h3>
 
-- 🔭 I’m currently working on [Personal website reconstruction](HTTPS://www.flower-butter.com)
+- 🔭 I’m currently working on a few projects using Figma
 
-- 🌱 I’m currently learning **CSS Bootstrap, JavaScript**
+- 🌱 I’m currently learning **HTML5, CSS3 and JavaScript**
 
 - 💬 Ask me about **Anything 🥰**
 
 - 📫 How to reach me **Bkrobinson21@hotmail.com**
+- 📫 https://www.linkedin.com/in/bkayrob
 
-- ⚡ Fun fact **Im the Jack of all trades**
+- ⚡ Fun facts ** Im the Jack of all trades, Air Force Veteran **
 - Any gaps present during any month do not reflect my skills or abilities. Gaps usually represent
 - study gaps to learn and grasps new concepts.
 
