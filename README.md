@@ -11,8 +11,7 @@
 - 📫 https://www.linkedin.com/in/bkayrob
 
 - ⚡ Fun facts ** Im the Jack of all trades, Air Force Veteran **
-- Any gaps present during any month do not reflect my skills or abilities. Gaps usually represent
-- study gaps to learn and grasps new concepts.
+- Any gaps present during any month do not reflect my skills or abilities. Gaps usually represent study gaps to learn and grasps new concepts.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
