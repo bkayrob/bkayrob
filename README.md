@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">A passionate <strong>Software Engineer</strong> and <strong>Data Analyst</strong> from New Jersey</h3>
+<h3 align="center">A passionate Software Engineer and Data Analyst from New Jersey</h3>
 
 - 🔭 I’m currently working on a few projects using Figma
 
@@ -8,10 +8,12 @@
 
 - 💬 Ask me about **My Journey through Tech🥰**
 
-- 📫 How to reach me **Bkrobinson21@hotmail.com**
+- 📫 How to reach me 
+- **Bkrobinson21@hotmail.com**
 - 📫 https://www.linkedin.com/in/bkayrob
+- 📫 https://public.tableau.com/app/profile/brittany.robinson4908
 
-- ⚡ Fun facts ** Im the Jack of all trades, Air Force Veteran **
+- ⚡ Fun facts ** Air Force Veteran, Former muscian **
 - Any gaps present during any month do not reflect my skills or abilities. Gaps usually represent study gaps to learn and grasps new concepts.
 
 <h3 align="left">Connect with me:</h3>
