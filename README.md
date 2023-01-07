@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
-<h3 align="center">A passionate Software Engineer and UI Designer from New Jersey</h3>
+<h3 align="center">A passionate <strong>Software Engineer</strong> and <strong>Data Analyst</strong> from New Jersey</h3>
 
 - 🔭 I’m currently working on a few projects using Figma
 
-- 🌱 I’m currently learning **HTML5, CSS3 and JavaScript Tableau, Data Anlytics, SQL**
+- 🌱 I’m currently learning **HTML5, CSS3 and JavaScript Tableau, Microsoft SQL**
+          - <strong>Google Data Analytics Profession Certificate</strong>
 
-- 💬 Ask me about **Anything 🥰**
+- 💬 Ask me about **My Journey through Tech🥰**
 
 - 📫 How to reach me **Bkrobinson21@hotmail.com**
 - 📫 https://www.linkedin.com/in/bkayrob
