@@ -27,4 +27,4 @@
           <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
           <a href="https://www.w3schools.com/Js/" target="_blank" rel="noreferrer"> 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/Js/Js-wordmark.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)" alt="Javascript" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> </a>
