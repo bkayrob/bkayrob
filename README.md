@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brittany</h1>
 <h3 align="center">A passionate Software Engineer and Data Analyst from New Jersey</h3>
 
-- 🔭 I’m currently working on a few projects using Figma
+- 🔭 I’m currently working on a few projects using Tableau
 
 - 🌱 I’m currently learning **HTML5, CSS3 and JavaScript Tableau, Microsoft SQL**
           - <strong>Google Data Analytics Profession Certificate</strong>
