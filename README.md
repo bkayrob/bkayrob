@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a few projects using Tableau
 
 - 🌱 I’m currently learning **HTML5, CSS3 and JavaScript Tableau, Microsoft SQL**
-          - <strong>Google Data Analytics Profession Certificate</strong>
+          - <strong>*Earned*Google Data Analytics Profession Certificate</strong>
 
 - 💬 Ask me about **My Journey through Tech🥰**
 
